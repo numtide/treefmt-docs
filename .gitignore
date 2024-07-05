@@ -1,0 +1,17 @@
+# editors
+.idea
+
+# nix
+result*
+repl-result-*
+
+# direnv
+/.direnv
+
+# devshell
+/.data
+
+# vitepress
+node_modules
+docs/.vitepress/cache
+docs/.vitepress/dist
